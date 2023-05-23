@@ -11,6 +11,8 @@ Some of the functions seen in these analysis for story telling are
     
     Pivot tables and pivot charts
     
+    PowerQuery
+    
     LOOKUP: VLOOKUP, HLOOKUP,XLOOKUP
     
     MATCH
@@ -22,3 +24,5 @@ Some of the functions seen in these analysis for story telling are
     RANK
     
     SUMPRODUCT
+
+With Paliside tools as add in advance analysis is done using excel for regression model,time series analysis, correlation,hypothesis testing,summarry statistics,decision trees etc.
