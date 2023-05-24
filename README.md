@@ -25,4 +25,15 @@ Some of the functions seen in these analysis for story telling are
     
     SUMPRODUCT
 
-With Paliside tools as add in advance analysis is done using excel for regression model,time series analysis, correlation,hypothesis testing,summarry statistics,decision trees etc.
+With Paliside tools as add in advance analysis is done using excel for 
+    regression model 
+
+    time series analysis 
+
+    correlation 
+
+    hypothesis testing 
+
+    summarry statistics 
+
+    decision trees etc.
