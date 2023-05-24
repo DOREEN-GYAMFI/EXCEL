@@ -1,3 +1,5 @@
+This is a highligh as to the content of the excel analysis when downloaded
+
 This analysis using pivot chart to explore the data, also LOOKUP functions are used to anser specific question to search information in the dataset.
 Below is the preview of pivot table and chart when downloaded
 ![image](https://github.com/DOREEN-GYAMFI/EXCEL/assets/124680155/5a0def7e-3d1e-410b-b61d-7a96ab4192a6)
